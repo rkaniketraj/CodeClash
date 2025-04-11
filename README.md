@@ -9,13 +9,11 @@ A personalized and competitive platform to enhance your LeetCode practice with t
 ### 🎯 Personalized Contests *(Coming Soon)*
 Create custom contests by selecting problems based on difficulty levels. Practice like it's a real competition!
 
-![Problem Selection](problem_select_image)  
-![Contest Screen](contest_image)
 
 ### 🏆 Compete with Friends
 Add friends using their usernames and view a leaderboard to track progress, performance, and rankings.
 
-![Home Page](home)
+
 
 ---
 
